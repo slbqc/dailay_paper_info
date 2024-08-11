@@ -1,0 +1,100 @@
+[
+    {
+        "title": "MiniCPM-V: A GPT-4V Level MLLM on Your Phone",
+        "link": "/papers/2408.01800",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.01800",
+        "arxiv_url": "https://arxiv.org/abs/2408.01800",
+        "arxiv_id": "2408.01800"
+    },
+    {
+        "title": "Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining",
+        "link": "/papers/2408.02657",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02657",
+        "arxiv_url": "https://arxiv.org/abs/2408.02657",
+        "arxiv_id": "2408.02657"
+    },
+    {
+        "title": "RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation",
+        "link": "/papers/2408.02545",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02545",
+        "arxiv_url": "https://arxiv.org/abs/2408.02545",
+        "arxiv_id": "2408.02545"
+    },
+    {
+        "title": "Language Model Can Listen While Speaking",
+        "link": "/papers/2408.02622",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02622",
+        "arxiv_url": "https://arxiv.org/abs/2408.02622",
+        "arxiv_id": "2408.02622"
+    },
+    {
+        "title": "MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization",
+        "link": "/papers/2408.02555",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02555",
+        "arxiv_url": "https://arxiv.org/abs/2408.02555",
+        "arxiv_id": "2408.02555"
+    },
+    {
+        "title": "Self-Taught Evaluators",
+        "link": "/papers/2408.02666",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02666",
+        "arxiv_url": "https://arxiv.org/abs/2408.02666",
+        "arxiv_id": "2408.02666"
+    },
+    {
+        "title": "Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models",
+        "link": "/papers/2408.02085",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02085",
+        "arxiv_url": "https://arxiv.org/abs/2408.02085",
+        "arxiv_id": "2408.02085"
+    },
+    {
+        "title": "VidGen-1M: A Large-Scale Dataset for Text-to-video Generation",
+        "link": "/papers/2408.02629",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02629",
+        "arxiv_url": "https://arxiv.org/abs/2408.02629",
+        "arxiv_id": "2408.02629"
+    },
+    {
+        "title": "ProCreate, Dont Reproduce! Propulsive Energy Diffusion for Creative Generation",
+        "link": "/papers/2408.02226",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02226",
+        "arxiv_url": "https://arxiv.org/abs/2408.02226",
+        "arxiv_id": "2408.02226"
+    },
+    {
+        "title": "BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba",
+        "link": "/papers/2408.02600",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02600",
+        "arxiv_url": "https://arxiv.org/abs/2408.02600",
+        "arxiv_id": "2408.02600"
+    },
+    {
+        "title": "ExoViP: Step-by-step Verification and Exploration with Exoskeleton Modules for Compositional Visual Reasoning",
+        "link": "/papers/2408.02210",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02210",
+        "arxiv_url": "https://arxiv.org/abs/2408.02210",
+        "arxiv_id": "2408.02210"
+    },
+    {
+        "title": "The Impact of Hyperparameters on Large Language Model Inference Performance: An Evaluation of vLLM and HuggingFace Pipelines",
+        "link": "/papers/2408.01050",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.01050",
+        "arxiv_url": "https://arxiv.org/abs/2408.01050",
+        "arxiv_id": "2408.01050"
+    },
+    {
+        "title": "GPUDrive: Data-driven, multi-agent driving simulation at 1 million FPS",
+        "link": "/papers/2408.01584",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.01584",
+        "arxiv_url": "https://arxiv.org/abs/2408.01584",
+        "arxiv_id": "2408.01584"
+    },
+    {
+        "title": "Operationalizing Contextual Integrity in Privacy-Conscious Assistants",
+        "link": "/papers/2408.02373",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02373",
+        "arxiv_url": "https://arxiv.org/abs/2408.02373",
+        "arxiv_id": "2408.02373"
+    }
+]

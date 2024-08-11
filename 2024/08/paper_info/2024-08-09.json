@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Transformer Explainer: Interactive Learning of Text-Generative Models",
+        "link": "/papers/2408.04619",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.04619",
+        "arxiv_url": "https://arxiv.org/abs/2408.04619",
+        "arxiv_id": "2408.04619"
+    },
+    {
+        "title": "GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI",
+        "link": "/papers/2408.03361",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.03361",
+        "arxiv_url": "https://arxiv.org/abs/2408.03361",
+        "arxiv_id": "2408.03361"
+    },
+    {
+        "title": "Sketch2Scene: Automatic Generation of Interactive 3D Game Scenes from User's Casual Sketches",
+        "link": "/papers/2408.04567",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.04567",
+        "arxiv_url": "https://arxiv.org/abs/2408.04567",
+        "arxiv_id": "2408.04567"
+    },
+    {
+        "title": "LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection",
+        "link": "/papers/2408.04284",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.04284",
+        "arxiv_url": "https://arxiv.org/abs/2408.04284",
+        "arxiv_id": "2408.04284"
+    },
+    {
+        "title": "Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models",
+        "link": "/papers/2408.04594",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.04594",
+        "arxiv_url": "https://arxiv.org/abs/2408.04594",
+        "arxiv_id": "2408.04594"
+    },
+    {
+        "title": "Better Alignment with Instruction Back-and-Forth Translation",
+        "link": "/papers/2408.04614",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.04614",
+        "arxiv_url": "https://arxiv.org/abs/2408.04614",
+        "arxiv_id": "2408.04614"
+    },
+    {
+        "title": "Task-oriented Sequential Grounding in 3D Scenes",
+        "link": "/papers/2408.04034",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.04034",
+        "arxiv_url": "https://arxiv.org/abs/2408.04034",
+        "arxiv_id": "2408.04034"
+    },
+    {
+        "title": "Trans-Tokenization and Cross-lingual Vocabulary Transfers: Language Adaptation of LLMs for Low-Resource NLP",
+        "link": "/papers/2408.04303",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.04303",
+        "arxiv_url": "https://arxiv.org/abs/2408.04303",
+        "arxiv_id": "2408.04303"
+    },
+    {
+        "title": "Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics",
+        "link": "/papers/2408.04631",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.04631",
+        "arxiv_url": "https://arxiv.org/abs/2408.04631",
+        "arxiv_id": "2408.04631"
+    },
+    {
+        "title": "Advancing Molecular Machine (Learned) Representations with Stereoelectronics-Infused Molecular Graphs",
+        "link": "/papers/2408.04520",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.04520",
+        "arxiv_url": "https://arxiv.org/abs/2408.04520",
+        "arxiv_id": "2408.04520"
+    },
+    {
+        "title": "Learning Task Decomposition to Assist Humans in Competitive Programming",
+        "link": "/papers/2406.04604",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2406.04604",
+        "arxiv_url": "https://arxiv.org/abs/2406.04604",
+        "arxiv_id": "2406.04604"
+    },
+    {
+        "title": "Learning to Predict Program Execution by Modeling Dynamic Dependency on Code Graphs",
+        "link": "/papers/2408.02816",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02816",
+        "arxiv_url": "https://arxiv.org/abs/2408.02816",
+        "arxiv_id": "2408.02816"
+    },
+    {
+        "title": "VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads",
+        "link": "/papers/2407.18245",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.18245",
+        "arxiv_url": "https://arxiv.org/abs/2407.18245",
+        "arxiv_id": "2407.18245"
+    }
+]

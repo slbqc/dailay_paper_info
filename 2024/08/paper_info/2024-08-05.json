@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Medical SAM 2: Segment medical images as video via Segment Anything Model 2",
+        "link": "/papers/2408.00874",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00874",
+        "arxiv_url": "https://arxiv.org/abs/2408.00874",
+        "arxiv_id": "2408.00874"
+    },
+    {
+        "title": "POA: Pre-training Once for Models of All Sizes",
+        "link": "/papers/2408.01031",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.01031",
+        "arxiv_url": "https://arxiv.org/abs/2408.01031",
+        "arxiv_id": "2408.01031"
+    },
+    {
+        "title": "ReLiK: Retrieve and LinK, Fast and Accurate Entity Linking and Relation Extraction on an Academic Budget",
+        "link": "/papers/2408.00103",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00103",
+        "arxiv_url": "https://arxiv.org/abs/2408.00103",
+        "arxiv_id": "2408.00103"
+    },
+    {
+        "title": "TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling",
+        "link": "/papers/2408.01291",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.01291",
+        "arxiv_url": "https://arxiv.org/abs/2408.01291",
+        "arxiv_id": "2408.01291"
+    },
+    {
+        "title": "In-Context Example Selection via Similarity Search Improves Low-Resource Machine Translation",
+        "link": "/papers/2408.00397",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00397",
+        "arxiv_url": "https://arxiv.org/abs/2408.00397",
+        "arxiv_id": "2408.00397"
+    },
+    {
+        "title": "MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models",
+        "link": "/papers/2408.01337",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.01337",
+        "arxiv_url": "https://arxiv.org/abs/2408.01337",
+        "arxiv_id": "2408.01337"
+    },
+    {
+        "title": "RelBench: A Benchmark for Deep Learning on Relational Databases",
+        "link": "/papers/2407.20060",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.20060",
+        "arxiv_url": "https://arxiv.org/abs/2407.20060",
+        "arxiv_id": "2407.20060"
+    },
+    {
+        "title": "Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models",
+        "link": "/papers/2408.00113",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00113",
+        "arxiv_url": "https://arxiv.org/abs/2408.00113",
+        "arxiv_id": "2408.00113"
+    }
+]

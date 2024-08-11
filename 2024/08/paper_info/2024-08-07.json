@@ -1,0 +1,86 @@
+[
+    {
+        "title": "MMIU: Multimodal Multi-image Understanding for Evaluating Large Vision-Language Models",
+        "link": "/papers/2408.02718",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02718",
+        "arxiv_url": "https://arxiv.org/abs/2408.02718",
+        "arxiv_id": "2408.02718"
+    },
+    {
+        "title": "LLaVA-OneVision: Easy Visual Task Transfer",
+        "link": "/papers/2408.03326",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.03326",
+        "arxiv_url": "https://arxiv.org/abs/2408.03326",
+        "arxiv_id": "2408.03326"
+    },
+    {
+        "title": "An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion",
+        "link": "/papers/2408.03178",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.03178",
+        "arxiv_url": "https://arxiv.org/abs/2408.03178",
+        "arxiv_id": "2408.03178"
+    },
+    {
+        "title": "MedTrinity-25M: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine",
+        "link": "/papers/2408.02900",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02900",
+        "arxiv_url": "https://arxiv.org/abs/2408.02900",
+        "arxiv_id": "2408.02900"
+    },
+    {
+        "title": "IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts",
+        "link": "/papers/2408.03209",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.03209",
+        "arxiv_url": "https://arxiv.org/abs/2408.03209",
+        "arxiv_id": "2408.03209"
+    },
+    {
+        "title": "Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters",
+        "link": "/papers/2408.03314",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.03314",
+        "arxiv_url": "https://arxiv.org/abs/2408.03314",
+        "arxiv_id": "2408.03314"
+    },
+    {
+        "title": "Diffusion Models as Data Mining Tools",
+        "link": "/papers/2408.02752",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.02752",
+        "arxiv_url": "https://arxiv.org/abs/2408.02752",
+        "arxiv_id": "2408.02752"
+    },
+    {
+        "title": "CoverBench: A Challenging Benchmark for Complex Claim Verification",
+        "link": "/papers/2408.03325",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.03325",
+        "arxiv_url": "https://arxiv.org/abs/2408.03325",
+        "arxiv_id": "2408.03325"
+    },
+    {
+        "title": "StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation",
+        "link": "/papers/2408.03281",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.03281",
+        "arxiv_url": "https://arxiv.org/abs/2408.03281",
+        "arxiv_id": "2408.03281"
+    },
+    {
+        "title": "ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer",
+        "link": "/papers/2408.03284",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.03284",
+        "arxiv_url": "https://arxiv.org/abs/2408.03284",
+        "arxiv_id": "2408.03284"
+    },
+    {
+        "title": "Synthesizing Text-to-SQL Data from Weak and Strong LLMs",
+        "link": "/papers/2408.03256",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.03256",
+        "arxiv_url": "https://arxiv.org/abs/2408.03256",
+        "arxiv_id": "2408.03256"
+    },
+    {
+        "title": "AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation",
+        "link": "/papers/2408.01708",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.01708",
+        "arxiv_url": "https://arxiv.org/abs/2408.01708",
+        "arxiv_id": "2408.01708"
+    }
+]

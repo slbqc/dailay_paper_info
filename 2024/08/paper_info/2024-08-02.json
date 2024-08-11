@@ -1,0 +1,121 @@
+[
+    {
+        "title": "SAM 2: Segment Anything in Images and Videos",
+        "link": "/papers/2408.00714",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00714",
+        "arxiv_url": "https://arxiv.org/abs/2408.00714",
+        "arxiv_id": "2408.00714"
+    },
+    {
+        "title": "Gemma 2: Improving Open Language Models at a Practical Size",
+        "link": "/papers/2408.00118",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00118",
+        "arxiv_url": "https://arxiv.org/abs/2408.00118",
+        "arxiv_id": "2408.00118"
+    },
+    {
+        "title": "SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement",
+        "link": "/papers/2408.00653",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00653",
+        "arxiv_url": "https://arxiv.org/abs/2408.00653",
+        "arxiv_id": "2408.00653"
+    },
+    {
+        "title": "Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model",
+        "link": "/papers/2408.00754",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00754",
+        "arxiv_url": "https://arxiv.org/abs/2408.00754",
+        "arxiv_id": "2408.00754"
+    },
+    {
+        "title": "Improving Text Embeddings for Smaller Language Models Using Contrastive Fine-tuning",
+        "link": "/papers/2408.00690",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00690",
+        "arxiv_url": "https://arxiv.org/abs/2408.00690",
+        "arxiv_id": "2408.00690"
+    },
+    {
+        "title": "OmniParser for Pure Vision Based GUI Agent",
+        "link": "/papers/2408.00203",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00203",
+        "arxiv_url": "https://arxiv.org/abs/2408.00203",
+        "arxiv_id": "2408.00203"
+    },
+    {
+        "title": "TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models",
+        "link": "/papers/2408.00735",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00735",
+        "arxiv_url": "https://arxiv.org/abs/2408.00735",
+        "arxiv_id": "2408.00735"
+    },
+    {
+        "title": "MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models for Integrated Capabilities",
+        "link": "/papers/2408.00765",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00765",
+        "arxiv_url": "https://arxiv.org/abs/2408.00765",
+        "arxiv_id": "2408.00765"
+    },
+    {
+        "title": "Finch: Prompt-guided Key-Value Cache Compression",
+        "link": "/papers/2408.00167",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00167",
+        "arxiv_url": "https://arxiv.org/abs/2408.00167",
+        "arxiv_id": "2408.00167"
+    },
+    {
+        "title": "Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion",
+        "link": "/papers/2408.00458",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00458",
+        "arxiv_url": "https://arxiv.org/abs/2408.00458",
+        "arxiv_id": "2408.00458"
+    },
+    {
+        "title": "UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model",
+        "link": "/papers/2408.00762",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00762",
+        "arxiv_url": "https://arxiv.org/abs/2408.00762",
+        "arxiv_id": "2408.00762"
+    },
+    {
+        "title": "Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names",
+        "link": "/papers/2408.00298",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00298",
+        "arxiv_url": "https://arxiv.org/abs/2408.00298",
+        "arxiv_id": "2408.00298"
+    },
+    {
+        "title": "Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention",
+        "link": "/papers/2408.00760",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00760",
+        "arxiv_url": "https://arxiv.org/abs/2408.00760",
+        "arxiv_id": "2408.00760"
+    },
+    {
+        "title": "Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey",
+        "link": "/papers/2407.21794",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.21794",
+        "arxiv_url": "https://arxiv.org/abs/2407.21794",
+        "arxiv_id": "2407.21794"
+    },
+    {
+        "title": "Non Verbis, Sed Rebus: Large Language Models are Weak Solvers of Italian Rebuses",
+        "link": "/papers/2408.00584",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00584",
+        "arxiv_url": "https://arxiv.org/abs/2408.00584",
+        "arxiv_id": "2408.00584"
+    },
+    {
+        "title": "Sentence-wise Speech Summarization: Task, Datasets, and End-to-End Modeling with LM Knowledge Distillation",
+        "link": "/papers/2408.00205",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2408.00205",
+        "arxiv_url": "https://arxiv.org/abs/2408.00205",
+        "arxiv_id": "2408.00205"
+    },
+    {
+        "title": "Enhancing Semantic Similarity Understanding in Arabic NLP with Nested Embedding Learning",
+        "link": "/papers/2407.21139",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.21139",
+        "arxiv_url": "https://arxiv.org/abs/2407.21139",
+        "arxiv_id": "2407.21139"
+    }
+]

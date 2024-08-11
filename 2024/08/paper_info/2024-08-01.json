@@ -1,0 +1,93 @@
+[
+    {
+        "title": "The Llama 3 Herd of Models",
+        "link": "/papers/2407.21783",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.21783",
+        "arxiv_url": "https://arxiv.org/abs/2407.21783",
+        "arxiv_id": "2407.21783"
+    },
+    {
+        "title": "Tora: Trajectory-oriented Diffusion Transformer for Video Generation",
+        "link": "/papers/2407.21705",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.21705",
+        "arxiv_url": "https://arxiv.org/abs/2407.21705",
+        "arxiv_id": "2407.21705"
+    },
+    {
+        "title": "MoMa: Efficient Early-Fusion Pre-training with Mixture of Modality-Aware Experts",
+        "link": "/papers/2407.21770",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.21770",
+        "arxiv_url": "https://arxiv.org/abs/2407.21770",
+        "arxiv_id": "2407.21770"
+    },
+    {
+        "title": "Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent",
+        "link": "/papers/2407.21646",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.21646",
+        "arxiv_url": "https://arxiv.org/abs/2407.21646",
+        "arxiv_id": "2407.21646"
+    },
+    {
+        "title": "ShieldGemma: Generative AI Content Moderation Based on Gemma",
+        "link": "/papers/2407.21772",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.21772",
+        "arxiv_url": "https://arxiv.org/abs/2407.21772",
+        "arxiv_id": "2407.21772"
+    },
+    {
+        "title": "TAROT: Task-Oriented Authorship Obfuscation Using Policy Optimization Methods",
+        "link": "/papers/2407.21630",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.21630",
+        "arxiv_url": "https://arxiv.org/abs/2407.21630",
+        "arxiv_id": "2407.21630"
+    },
+    {
+        "title": "Open-Vocabulary Audio-Visual Semantic Segmentation",
+        "link": "/papers/2407.21721",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.21721",
+        "arxiv_url": "https://arxiv.org/abs/2407.21721",
+        "arxiv_id": "2407.21721"
+    },
+    {
+        "title": "Data Contamination Report from the 2024 CONDA Shared Task",
+        "link": "/papers/2407.21530",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.21530",
+        "arxiv_url": "https://arxiv.org/abs/2407.21530",
+        "arxiv_id": "2407.21530"
+    },
+    {
+        "title": "Improving 2D Feature Representations by 3D-Aware Fine-Tuning",
+        "link": "/papers/2407.20229",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.20229",
+        "arxiv_url": "https://arxiv.org/abs/2407.20229",
+        "arxiv_id": "2407.20229"
+    },
+    {
+        "title": "Berkeley Humanoid: A Research Platform for Learning-based Control",
+        "link": "/papers/2407.21781",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.21781",
+        "arxiv_url": "https://arxiv.org/abs/2407.21781",
+        "arxiv_id": "2407.21781"
+    },
+    {
+        "title": "Expressive Whole-Body 3D Gaussian Avatar",
+        "link": "/papers/2407.21686",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.21686",
+        "arxiv_url": "https://arxiv.org/abs/2407.21686",
+        "arxiv_id": "2407.21686"
+    },
+    {
+        "title": "Fine-gained Zero-shot Video Sampling",
+        "link": "/papers/2407.21475",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2407.21475",
+        "arxiv_url": "https://arxiv.org/abs/2407.21475",
+        "arxiv_id": "2407.21475"
+    },
+    {
+        "title": "NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields",
+        "link": "/papers/2404.01300",
+        "arxiv_pdf_url": "https://arxiv.org/pdf/2404.01300",
+        "arxiv_url": "https://arxiv.org/abs/2404.01300",
+        "arxiv_id": "2404.01300"
+    }
+]
